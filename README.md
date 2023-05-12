@@ -4,25 +4,6 @@
 
 This project is a Python script which fetches messages from Telegram channels and posts them to an RSS feed. It utilizes Azure Cloud Infrastructure to function.
 
-## Table of contents
-
-- [Telegram Channel-to-RSS](#telegram-channel-to-rss)
-  - [Installation and Configuration](#installation-and-configuration)
-    - [Prerequisites](#prerequisites)
-    - [Installation Steps](#installation-steps)
-  - [Credits](#credits)
-  - [Step-by-step guide to deploying `tg-channel-to-rss` on Azure Functions:](#step-by-step-guide-to-deploying-tg-channel-to-rss-on-azure-functions)
-  - [Prerequisites](#prerequisites)
-  - [Deployment Steps](#deployment-steps)
-    - [Step 1: Clone repository](#step-1-clone-repository)
-    - [Step 2: Create a virtual environment](#step-2-create-a-virtual-environment)
-    - [Step 3: Install dependencies](#step-3-install-dependencies)
-    - [Step 4: Test the application](#step-4-test-the-application)
-    - [Step 5: Create Azure Function app](#step-5-create-azure-function-app)
-    - [Step 6: Deploy the application](#step-6-deploy-the-application)
-    - [Step 7: Setup environment variables](#step-7-setup-environment-variables)
-    - [Step 8: Test the deployed application](#step-8-test-the-deployed-application)
-
 ## Installation and Configuration
 
 The following instructions will help you in deploying the tg-channel-to-rss on Azure infrastructure.

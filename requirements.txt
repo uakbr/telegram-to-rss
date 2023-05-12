@@ -1,0 +1,2 @@
+feedgen==0.9.0
+python-telegram-bot==13.7
